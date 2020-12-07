@@ -7,3 +7,9 @@
     transition: 1s;
     border-radius: 20px;
 }
+@media(max-width: 800px) {
+    .education {
+        height: auto;
+        padding-top: 5%;
+    }
+}

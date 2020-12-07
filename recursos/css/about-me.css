@@ -2,6 +2,12 @@
     background: linear-gradient(#2d4059, #ea5455);
     height: 100vh;
 }
+@media(max-width: 800px) {
+    .about-me {
+        height: auto;
+        padding-top: 5%;
+    }
+}
 .personal-photo {
     background-image: url('../img/Profile-photo.jpg');
     width: 100%;

@@ -1,0 +1,25 @@
+.bar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    background-color: #00000083;
+    height: 10%;
+}
+.bar .icon {
+    margin: 0 10px;
+}
+.triangulo-2 {
+    position: relative; 
+    height: 40px; 
+    width: 70px; 
+    background-image: url('https://acegif.com/wp-content/uploads/funny-anime-gif-14.gif');
+    background-position: center;
+    background-size: cover;
+    border-radius: 150px; 
+    top: 0px; 
+    left: 0px; 
+    transform: skew(0deg);
+}

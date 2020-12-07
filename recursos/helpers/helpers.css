@@ -1,0 +1,33 @@
+/*Helpers*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.flex-wrp {
+    flex-wrap: wrap;
+}
+.jst-cnt {
+    justify-content: center;
+}
+.txt-center {
+    text-align: center;
+}
+.d-flex {
+    display: flex;
+}
+.aln-item {
+    align-items: center;
+}
+.pdg-btn-2 {
+    padding-bottom: 2%;
+}
+.txt-white {
+    color: white;
+}
+.p-txt {
+    font-size: 1.3rem;
+}
+.d-iln-blk {
+    display: inline-block;
+}

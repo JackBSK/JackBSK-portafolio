@@ -1,0 +1,10 @@
+.about-me {
+    background: linear-gradient(#2d4059, #ea5455);
+    height: 100vh;
+}
+.personal-photo {
+    background-image: url('../img/Profile-photo.jpg');
+    width: 100%;
+    padding: 5%;
+    border-radius: 50%;
+}

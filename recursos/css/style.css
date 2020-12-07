@@ -1,0 +1,16 @@
+.header { 
+    height: 100vh;
+    background-image: url('../img/Portada.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container {
+    height: 100%;
+    width: 100%;
+}
+.title {
+    color: white;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 2rem;
+}

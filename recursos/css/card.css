@@ -1,0 +1,27 @@
+.card {
+    height: 92%;
+    width: 92%;
+    background-color: rgba(169, 169, 169, 0.315);
+    border-radius: 1rem;
+    padding: 2%;
+}
+.col-title {
+    width: 100%;
+    height: 10%;
+    margin-bottom: 2%;
+}
+@media(min-width: 800px) {
+    .col-8 {
+        width: calc(100% / 12*8);
+    }
+    .col-4 {
+        width: calc(100% / 12*4);
+    }
+    .cards {
+        height: 43%;
+        width: 50%;
+        padding: 2%;
+        transition: 1s;
+        border-radius: 20px;
+    }
+}

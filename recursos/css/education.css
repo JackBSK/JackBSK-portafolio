@@ -1,0 +1,9 @@
+.education {
+    height: 100vh;
+    background: linear-gradient(#ea5455,  #f07b3f);
+}
+.cards:hover {
+    background-color: black;
+    transition: 1s;
+    border-radius: 20px;
+}
